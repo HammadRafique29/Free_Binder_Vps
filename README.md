@@ -6,3 +6,7 @@ FREE VPS --->                   [![Binder](https://mybinder.org/badge_logo.svg)]
 
 
 ..a;..;[.[p=-.]][0.;l/l/al99'\\
+
+
+## Steps:
+ - git clone https://github.com/dylanaraps/neofetch.git
